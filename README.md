@@ -1,2 +1,3 @@
 # SE_COMP_PRACT
 THIS MY FIRST WT PRACTICAL
+  -panchal se
